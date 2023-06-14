@@ -1,4 +1,3 @@
-### Hi there 👋
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=davi%2Dweb&show_icons=true&theme=dark"
